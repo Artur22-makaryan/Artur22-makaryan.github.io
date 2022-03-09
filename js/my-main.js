@@ -5,7 +5,7 @@ function adaptive(){
     window.location.href=path
 }
 
-console.log(window.location.href)
+
 
 
 if(window.innerWidth<1000){
